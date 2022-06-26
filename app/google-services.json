@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381310318599",
+    "project_id": "menutech-2f6e6",
+    "storage_bucket": "menutech-2f6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381310318599:android:f90a79ca4ee9a5ff1652a2",
+        "android_client_info": {
+          "package_name": "com.menu.menutech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381310318599-pv5rj74kp6jukhi0jeh7u53tjcsg712k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZRPsZ1FrOUR9qnbhVGZ5ynSM1iYoycI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381310318599-pv5rj74kp6jukhi0jeh7u53tjcsg712k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
